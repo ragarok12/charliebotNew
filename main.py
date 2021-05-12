@@ -13,6 +13,7 @@ sys.path.append(os.path.join(sys.path[0], "../../"))
 import schedule  # noqa: E402
 from instabot import Bot, utils  # noqa: E402
 
+#cool
 
 bot = Bot(
     comments_file=config.COMMENTS_FILE,
